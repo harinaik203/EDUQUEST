@@ -1,2 +1,2 @@
 # EDUQUEST
-Exams related applocation.
+Exams related application.
